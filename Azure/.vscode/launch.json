@@ -6,9 +6,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Data_Structures/bin/Debug/net7.0/Data_Structures.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/Azure.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Data_Structures",
+            "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false
         },
@@ -18,10 +18,11 @@
             "request": "attach"
         },
         {
-            "name": "Attach to .NET Functions",
-            "type": "coreclr",
+            "name": "Attach to Node Functions",
+            "type": "node",
             "request": "attach",
-            "processId": "${command:azureFunctions.pickProcess}"
+            "port": 9229,
+            "preLaunchTask": "func: host start"
         }
     ]
 }
