@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Text;
-
+/*
 namespace ConsoleApp30
 {
     internal class Program
@@ -41,3 +41,4 @@ namespace ConsoleApp30
        
     }
 }
+*/
