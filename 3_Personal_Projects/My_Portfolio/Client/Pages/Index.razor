@@ -1,0 +1,86 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1>Larry Neris</h1>
+
+<b>I am a Software Engineer that is looking for a Junior Software Engineer role. </b> 
+<p></p>
+<p>My background is active duty military, serving 8 years with the Marine Corps as a System Administrator. <p></p>
+During my time in active duty, I have supported battalions in overseas multi-national training exercises through the deployment of communications equipment. <br />
+The technologies that I gained experience with range from switching and routing with Cisco equipment, to daily vulnerability management with VMWare, containers and SEIMs. <br />
+<br />
+<b>More technologies include:</b>
+<p></p>
+    @code {
+        private List<Skills> Technologies = new List<Skills>
+        {
+            new Skills { Name = "Red Hat Enterprise Linux"},
+            new Skills { Name = "Ubuntu" },
+            new Skills { Name = "Microsoft Azure Functions"},
+            new Skills { Name = "Microsoft Azure App Services"},
+            new Skills { Name = "PowerShell"}
+        };
+        private List<Certifications> Certs = new List<Certifications>
+        {
+            new Certifications { Name = "Microsoft: Azure Developer Associate" },
+            new Certifications { Name = "Microsoft: Azure Fundamentals "},
+            new Certifications { Name = "CompTIA Advanced Security Practitioner"},
+            new Certifications { Name = "CompTIA Security+" },
+            new Certifications { Name = "CompTIA Linux+"},
+        };
+        private class Skills
+        {
+            public string Name { get; set; }
+        }
+        private class Certifications
+        {
+            public string Name { get; set; }
+        }
+}
+<style>
+    /* Add the CSS here if you want it inline */
+</style>
+
+<div class="side-by-side-tables">
+    <!-- Technologies table -->
+    <table>
+        <thead>
+            <tr>
+                <th>Technologies</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tech in Technologies)
+                {
+                    <tr>
+                        <td>@tech.Name</td>
+                    </tr>
+                }
+        </tbody>
+    </table>
+
+    <!-- Certifications table -->
+    <table>
+        <thead>
+            <tr>
+                <th>Certifications</th>
+            </tr>
+        </thead>
+        <tbody>
+                @foreach (var cert in Certs)
+                {
+                    <tr>
+                        <td>@cert.Name</td>
+                    </tr>
+                }
+        </tbody>
+    </table>
+</div>
+
+
+
+</p>
+
+
+<SurveyPrompt Title="How is Blazor working for you?" />
