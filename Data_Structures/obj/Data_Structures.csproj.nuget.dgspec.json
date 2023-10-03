@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\Data_Structures\\Data_Structures.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\Data_Structures\\Data_Structures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\Data_Structures\\Data_Structures.csproj",
+        "projectName": "Data_Structures",
+        "projectPath": "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\Data_Structures\\Data_Structures.csproj",
+        "packagesPath": "C:\\Users\\lol4l\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\Data_Structures\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lol4l\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/packages/CsvHelper": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

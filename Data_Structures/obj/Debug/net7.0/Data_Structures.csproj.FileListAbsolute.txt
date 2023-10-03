@@ -1,0 +1,14 @@
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\Data_Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\Data_Structures.AssemblyInfoInputs.cache
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\Data_Structures.AssemblyInfo.cs
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\Data_Structures.csproj.CoreCompileInputs.cache
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\bin\Debug\net7.0\Data_Structures.exe
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\bin\Debug\net7.0\Data_Structures.deps.json
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\bin\Debug\net7.0\Data_Structures.runtimeconfig.json
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\bin\Debug\net7.0\Data_Structures.dll
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\bin\Debug\net7.0\Data_Structures.pdb
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\Data_Structures.dll
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\refint\Data_Structures.dll
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\Data_Structures.pdb
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\Data_Structures.genruntimeconfig.cache
+C:\Users\lol4l\source\repos\Personal_Projects\BbyWiz\Data_Structures\obj\Debug\net7.0\ref\Data_Structures.dll

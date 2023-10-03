@@ -1,0 +1,15 @@
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/JFFun.csproj.AssemblyReference.cache
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/JFFun.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/JFFun.AssemblyInfoInputs.cache
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/JFFun.AssemblyInfo.cs
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/JFFun.csproj.CoreCompileInputs.cache
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/bin/Debug/net7.0/JFFun
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/bin/Debug/net7.0/JFFun.deps.json
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/bin/Debug/net7.0/JFFun.runtimeconfig.json
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/bin/Debug/net7.0/JFFun.dll
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/bin/Debug/net7.0/JFFun.pdb
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/JFFun.dll
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/refint/JFFun.dll
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/JFFun.pdb
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/JFFun.genruntimeconfig.cache
+/mnt/c/Users/lol4l/source/repos/Personal_Projects/BbyWiz/JFFun/obj/Debug/net7.0/ref/JFFun.dll
