@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iw5sdyKwiWfaDzPsuE66cK//gDjcAN4nKPxyVR1ruOCAgN78NMTEKX5tuGAQBSXUzqbL0GeasmEZjfzcNbm9wA==",
+  "dgSpecHash": "VfoNPRsj5WmHITX7JSJ5FuNgmS17GejBKfRF0uQLfLo53/Pf5z+Tte+KV0zCMqERA3sh6zucY2uL53wFg7ZhXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Server\\My_Portfolio.Server.csproj",
+  "projectFilePath": "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Server\\My_Portfolio.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lol4l\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\lol4l\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

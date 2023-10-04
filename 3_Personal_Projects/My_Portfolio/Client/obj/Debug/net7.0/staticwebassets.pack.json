@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
+      "Id": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\Professional Photo.jpg",
+      "PackagePath": "staticwebassets\\css\\Professional Photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -27,6 +35,10 @@
     {
       "Id": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\me.jpeg",
+      "PackagePath": "staticwebassets\\css\\me.jpeg"
     },
     {
       "Id": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",

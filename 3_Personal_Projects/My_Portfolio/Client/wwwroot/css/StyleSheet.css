@@ -1,0 +1,28 @@
+﻿body {
+}
+
+/*  CODE TO CENTER THE IMAGE - LSN */
+.container {
+    text-align:right;
+    display: inline-block; /* Ensures padding behaves correctly */
+    padding: 4px; /* This determines the border thickness */
+    background: linear-gradient(to right, black, red); /* Black to red gradient */
+    background-clip: padding-box; /* Clip the background to the padding box */
+    /* Other image properties */
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box; /* Ensures the width/height include the 'border' */
+    margin-left: auto; /* Pushes the image to the right */
+}
+.flex-container {
+    display: flex;
+    align-items: flex-start; /* vertical alignment */
+    justify-content: flex-start; /* horizontal alignment */
+}
+.moving-image {
+    transition: transform 0.5s; /* Transition effect for 0.5 seconds */
+}
+
+.move {
+    transform: translateX(100px); /* Move the image 100 pixels to the right */
+}

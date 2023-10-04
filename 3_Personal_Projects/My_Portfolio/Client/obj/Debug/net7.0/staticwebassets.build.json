@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cR5ORSyqqTU9s6YX/7peiR4YXBAK7X2BNOrq2r7te5k=",
+  "Hash": "Q7wYWJx0dLjgVjjNnPw8YveV5j5HJfXQD3+UMjMG1Ps=",
   "Source": "My_Portfolio.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7208,6 +7208,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\me.jpeg",
+      "SourceId": "My_Portfolio.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/me.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\me.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "My_Portfolio.Client",
       "SourceType": "Discovered",
@@ -7359,6 +7376,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\Professional Photo.jpg",
+      "SourceId": "My_Portfolio.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/Professional Photo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Professional Photo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "My_Portfolio.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\favicon.png",
