@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q7wYWJx0dLjgVjjNnPw8YveV5j5HJfXQD3+UMjMG1Ps=",
+  "Hash": "tLw5QeJAUURRhP8xGaGXg2wOHVpNSjy327qYmkVk0bE=",
   "Source": "My_Portfolio.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7393,6 +7393,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Professional Photo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\skip_uno.jpg",
+      "SourceId": "My_Portfolio.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/skip_uno.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\skip_uno.jpg"
     },
     {
       "Identity": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\wwwroot\\css\\StyleSheet.css",

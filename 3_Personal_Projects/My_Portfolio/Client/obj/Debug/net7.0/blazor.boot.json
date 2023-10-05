@@ -205,14 +205,14 @@
       "netstandard.dll": "sha256-Cr6slBs\/R2v2t\/vecFDHbQHakbEhar0adYu0YemwiXI=",
       "System.Private.CoreLib.dll": "sha256-dDw5nzGJhW1jOjGfSJcs\/Mi4KQ+DZygXnoK+vJ+jHyk=",
       "My_Portfolio.Shared.dll": "sha256-07zX6pnN68vpTMr22pbzlfD4G66lm\/ZEK3uDHMiA5Fw=",
-      "My_Portfolio.Client.dll": "sha256-ARkkiAcgWm00Yd0CDQR0emz2MOCdsSaKQoU81ayifks="
+      "My_Portfolio.Client.dll": "sha256-ZXKJSpOxeJuZeBNJ2+DtjPBRjhq+P6fATFXbC\/EhFyU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "My_Portfolio.Shared.pdb": "sha256-HtBwdHLsz\/ATunaqjZuMfB8Lx+UNxr0\/nsEiNwk8Xzw=",
-      "My_Portfolio.Client.pdb": "sha256-2jhkaso\/paqX8YQGZE98NdByvFsEcanTTsA5qSXbUSw="
+      "My_Portfolio.Client.pdb": "sha256-860sfl78\/73p+jstu\/Hr6PCDjVPekFnfebZboWtMks0="
     },
     "runtime": {
       "dotnet.7.0.11.d5qlalv9zw.js": "sha256-RtIVigdAD1mUvR4pxoKyD8kcQgw4INP81v+PVSqkeQY=",

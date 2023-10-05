@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qK+01tGRerEUhxyPEhh7TBNyR/TleziBTl3m6fXy0jRF+CNP8KHI8Hm4euZYwBOpULhLTcw6mnOyV+947FTwqQ==",
+  "dgSpecHash": "eluoh1Z8QM/rCtZHMvzpa1gfR45TnZy6Ysg9J2AlH9ZXwI+w9i3SYwzeC0TrgtfMeeyJ1HDcgKuXQq1byYnDZA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\My_Portfolio.Client.csproj",
+  "projectFilePath": "C:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\3_Personal_Projects\\My_Portfolio\\Client\\My_Portfolio.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lol4l\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.11\\microsoft.aspnetcore.authorization.7.0.11.nupkg.sha512",
     "C:\\Users\\lol4l\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.11\\microsoft.aspnetcore.components.7.0.11.nupkg.sha512",

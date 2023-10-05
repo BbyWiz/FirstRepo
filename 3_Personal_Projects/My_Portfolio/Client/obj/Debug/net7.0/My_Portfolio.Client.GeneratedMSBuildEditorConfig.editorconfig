@@ -24,20 +24,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lol4l/source/repos/Personal_Projects/BbyWiz/3_Personal_Projects/My_Portfolio/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/lol4l/source/repos/Personal_Projects/BbyWiz/3_Personal_Projects/My_Portfolio/Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+[C:/Users/lol4l/source/repos/Personal_Projects/BbyWiz/3_Personal_Projects/My_Portfolio/Client/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lol4l/source/repos/Personal_Projects/BbyWiz/3_Personal_Projects/My_Portfolio/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lol4l/source/repos/Personal_Projects/BbyWiz/3_Personal_Projects/My_Portfolio/Client/Shared/LoginDisplay.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+[C:/Users/lol4l/source/repos/Personal_Projects/BbyWiz/3_Personal_Projects/My_Portfolio/Client/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lol4l/source/repos/Personal_Projects/BbyWiz/3_Personal_Projects/My_Portfolio/Client/Shared/RedirectToLogin.razor]

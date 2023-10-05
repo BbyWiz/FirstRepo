@@ -1,1 +1,0 @@
-Endpoint=sb://salesteamappcontoso2023-lsn.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=OpfNRdiQ19HdYzQBgh2ct5z1/rt98Du+m+ASbD9FsCQ=
