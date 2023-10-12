@@ -1,0 +1,222 @@
+﻿@page "/"
+@inject IJSRuntime JSRuntime
+
+
+<PageTitle>Index</PageTitle>
+
+@*************************************Page 1*********************************************************@
+<section id="about">
+<header class="lsn-header">
+    Larry Neris
+</header>
+<section class="HeaderImage">
+    <img src="images/Professional Photo.jpg" alt="Larry Neris Portrait">
+</section>
+   <div style="font-weight: bold;">
+      <section class="typing-effect untyping-effect changing-text" id="HeyHolaYo">
+    <span class="word" id="word1">Yoo!</span>
+    <span class="word" id="word2">Hola!<br /></span>
+    <span class="word" id="word3">Hey!</span>
+</section>
+    </div>
+<br />
+<section class="summary-lsn">
+I am Larry, a Software Engineer with a background in CyberSecurity & Server Administration.
+</section>
+</section>
+
+
+
+
+
+
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+@***************************************Page 2*******************************************************@
+<section id="knowledge"></section> 
+
+
+
+
+
+
+
+
+    @code {
+
+        private List<Skills> Technologies = new List<Skills>
+    {
+        new Skills { Name = "Red Hat Enterprise Linux"},
+        new Skills { Name = "Ubuntu" },
+        new Skills {Name = "Microsoft Azure Functions"},
+        new Skills{Name= "Microsoft Azure App Services" },
+        new Skills{Name = "PowerShell" }
+    };
+
+        private List<Certifications> Certs = new List<Certifications>
+    {
+        new Certifications { Name = "Microsoft: Azure Developer Associate" },
+        new Certifications { Name = "Microsoft: Azure Fundamentals" },
+        new Certifications { Name = "CompTIA Advanced Security Practitioner" },
+        new Certifications { Name = "CompTIA Security+" },
+        new Certifications { Name = "CompTIA Linux+" },
+    };
+
+        private class Skills
+        {
+            public string Name { get; set; }
+        }
+
+        private class Certifications
+        {
+            public string Name { get; set; }
+        }
+}
+@*<div class="knowledge"><a href="#knowledge">Knowledge</a> </div>*@
+<div class="side-by-side-tables">
+    <!-- Technologies table -->
+    <table>
+        <thead>
+            <tr>
+                <th>Technologies</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tech in Technologies)
+                {
+                            <tr>
+                                <td>@tech.Name</td>
+                            </tr>
+                }
+        </tbody>
+    </table>
+
+    <!-- Certifications table -->
+    <table>
+        <thead>
+            <tr>
+                <th>Certifications</th>
+            </tr>
+        </thead>
+        <tbody>
+                @foreach (var cert in Certs)
+                {
+                            <tr>
+                                <td>@cert.Name</td>
+                            </tr>
+                }
+        </tbody>
+    </table>
+</div>
+@*section Skills is above*@
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+@***************************************Page 3*******************************************************@
+<section id="experience"</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="body-lsn">
+    <p>
+
+
+        My background is active duty military, serving 8 years with the Marine Corps as a System Administrator. <br /><br />
+        During my time in active duty, I have supported battalions in overseas, multi-national training exercises through the deployment of communications equipment. <br /><br />
+        I have gained experience with technologies that utilize switching and routing or server administration with Active Directory and Azure Active Directory and also have plenty of experience with vulnerability management through VMWare, Microsoft Endpoint Configuration Manager, containers, and SEIMs.
+    </p>
+</section>
+
+    @*Grab some history from LinkedIn*@
+<section class ="my-history">
+</section>
+
+    <p>
+        Experiences and history:
+    </p>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
+
+
+
+
+
+
+
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+@***************************************Page 4*******************************************************@
+<section id="projects"></section>
+
+
+<section class ="my-projects">
+    <p>
+        Projects:
+    </p>
+    <ul>
+  <li>Project 1</li>
+  <li>Project 2</li>
+  <li>Project 3</li>
+</ul>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+
+
+<div class="JobLinks">
+   <a href="https://linkedin.com/in/larry-n/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+</div>
+<div class="JobLinks2">
+<a href="https://github.com/mssa-2023-fall/Larry" target="_blank">GitHub</a>
+</div>
+
+
+
+
