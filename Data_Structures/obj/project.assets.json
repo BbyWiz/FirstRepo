@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\Data_Structures\\Data_Structures.csproj",
+      "projectUniqueName": "c:\\Users\\lol4l\\source\\repos\\Personal\\Debuggers\\Data_Structures\\Data_Structures.csproj",
       "projectName": "Data_Structures",
-      "projectPath": "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\Data_Structures\\Data_Structures.csproj",
+      "projectPath": "c:\\Users\\lol4l\\source\\repos\\Personal\\Debuggers\\Data_Structures\\Data_Structures.csproj",
       "packagesPath": "C:\\Users\\lol4l\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lol4l\\source\\repos\\Personal_Projects\\BbyWiz\\Data_Structures\\obj\\",
+      "outputPath": "c:\\Users\\lol4l\\source\\repos\\Personal\\Debuggers\\Data_Structures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lol4l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
